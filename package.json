@@ -1,0 +1,22 @@
+{
+  "name": "bradspackagename",
+  "version": "1.0.0",
+  "description": "To use this extension locally",
+  "main": "background.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bradleyplunkett/SalesWeapon2.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bradleyplunkett/SalesWeapon2/issues"
+  },
+  "homepage": "https://github.com/bradleyplunkett/SalesWeapon2#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
