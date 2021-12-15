@@ -3,7 +3,7 @@
     "name": "SalesWeapon",
     "description": "Colten's Sales Weapon",
     "version": "2.0",
-    "author": "Bradley Plunkett",
+    "author": "Bradley",
     "background": {
       "scripts": ["background.js"],
       "persistent": false
@@ -20,7 +20,8 @@
     "content_scripts": [
       {
         "matches": ["<all_urls>"],
-        "js": ["jquery-3.3.1.js","content.js"]
+        "css": ["styles.css"],
+        "js":["content.js"]
       }
     ],
     "icons": {
