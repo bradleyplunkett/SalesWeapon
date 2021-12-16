@@ -30,6 +30,10 @@
 // console.log(experienceArray)
 console.log('brad')
 
+console.dir(document.querySelector('div.pvs-list__outer-container > ul > li:nth-child(1) > div > div.display-flex.flex-column.full-width.align-self-center > div.display-flex.flex-row.justify-space-between > div.display-flex.flex-column.full-width > span:nth-child(2) > span:nth-child(1)'))
+
+
+
 
 // console.log('below is the name of the user')
 // let user = document.getElementsByTagName('title')[0];
